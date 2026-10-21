@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 2: Modelado y control del sistema cardiovascular
+  mediante el modelo Windkessel
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Judith V.
+    family-names: Soriano Angeles
+    email: l23212231@tijuana.tecnm.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/soriano-23212231/MSFP2'
+keywords:
+  - Modelo Windkessel
+  - Sistema cardiovascular
+  - Controlador PID
+  - Simulaciones numéricas
+  - Modelo matemático
+  - Función de transferencia
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-20'
